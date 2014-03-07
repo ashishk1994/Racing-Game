@@ -1,0 +1,33 @@
+201202100 Ashish Kumar Graphics Assignment 2 Interim
+
+
+@@@@@@@ Instructions To Play @@@@@@@@
+#####################################
+% Bike can turn left by 'a' key and right by 'd' key
+% One can accelerate bike by pressing up key and apply brakes by down key
+% Right and Left key tilt the bike and turn it left and right when it is in speed.
+% Views can be switched by pressing 'v' button.
+% Press 'ESC' key to exit game.
+% Execute by typing make and then ./graphics.
+
+
+@@@@@@@ Features Implemented @@@@@@@
+####################################
+% Terrain on which bike can move.
+% Bike has constant acceleration on pressing up key and deaccelarates when key is left.(Physics)
+% Bike can tilt(by max 45 degree) and will be balanced by centrifugal force.(Physics)
+% Rotating tyres.
+% Bike Structure is a real world model(to be more improved in next phase).
+% Bike can climb up the mounts.
+% There are fossils distributed accross the terrain.
+% Five camera views:
+    a)Driver View
+    b)Wheel View(front mudguard view)
+    c)OverHead View
+    d)Side View(not in pdf)
+    e)Follow Cam
+
+
+@@@@@@@ Resources Used @@@@@@@@
+###############################
+1) http://www.videotutorialsrock.com/ for terrain implementation.
